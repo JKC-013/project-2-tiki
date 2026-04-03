@@ -1,0 +1,6 @@
+crawled_data/
+*.json
+ErrorID.csv
+tiki_products_final.csv
+__pycache__/
+.venv/
